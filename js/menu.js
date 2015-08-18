@@ -2,7 +2,7 @@ $(document).ready(function(){
 //    nav-li hover e
     var num;
     $('.nav-main>li[id]').hover(function(){
-       /*图标向上旋转*/
+        /*图标向上旋转*/
         $(this).children().removeClass().addClass('hover-up');
         /*下拉框出现*/
         var Obj = $(this).attr('id');
