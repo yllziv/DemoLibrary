@@ -31,9 +31,7 @@ nav{
     display: inline-block;
     margin-left: 18px;
     width: 7px;
-    height: 7px;
-    background: url('../img/down-icon.png') no-repeat;
-}
+    height: 7px;  }
 /*图标向上旋转*/
 .hover-up{
     transform: rotate(180deg);
